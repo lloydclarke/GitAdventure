@@ -1,1 +1,1 @@
-Embarking on my journey to master Git
+Starting my Git journey.
